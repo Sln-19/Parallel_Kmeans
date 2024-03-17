@@ -47,3 +47,9 @@ Raw Data                   |  After kmeans
 :-------------------------:|:-------------------------:
 ![](images/ip_data.png)   |  ![](images/kmeans_op.png)
 
+The comparison of time taken vs number of threads is shown below
+
+Random initializer                  |  Kmeanspp initializer
+:-------------------------:|:-------------------------:
+![](images/rand.png)   |  ![](images/kmeanspp.png)
+
