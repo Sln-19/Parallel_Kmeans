@@ -53,5 +53,5 @@ The comparison of time taken vs number of threads is shown below:
 
 Random initializer                  |  Kmeanspp initializer
 :-------------------------:|:-------------------------:
-![](images/rand.jpg)   |  ![](images/kmeanspp.jpg)
+![](images/rand.png)   |  ![](images/kmeanspp.png)
 
