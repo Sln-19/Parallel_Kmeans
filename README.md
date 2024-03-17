@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Parallel_Computing
-=======
+============================
 # KMeans
 
 This repository contains a C++ implementation of the K-Means clustering algorithm parallelized using OpenMP. K-Means is a popular unsupervised machine learning algorithm used for clustering data points into a predefined number of clusters. Parallelizing the algorithm using OpenMP allows for significant speedup on multi-core processors. We try to use kmeans to cluster cells for spatial transcriptomics. The dataset can be found in Kaggle at this [link] (https://www.kaggle.com/datasets/rupindersinghrana/cell-clustering-for-spatial-transcriptomics)
@@ -48,4 +47,3 @@ Raw Data                   |  After kmeans
 :-------------------------:|:-------------------------:
 ![](images/ip_data.png)   |  ![](images/kmeans_op.png)
 
->>>>>>> 6b076ac (Adding files for parallel k-means)
