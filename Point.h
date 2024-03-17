@@ -1,6 +1,4 @@
-//
-// Created by dragos on 28/10/22.
-//
+
 #pragma once
 #ifndef KMEANS_POINT_H
 #define KMEANS_POINT_H
