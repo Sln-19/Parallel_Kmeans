@@ -34,7 +34,7 @@ To run use <code> ./kmean <dataset_file_name> <number_of_clusters> <thread_numbe
 - <code> <algorithm_type></code>  can be: _rand_ or _pp_ for random or kmeans pp initializer respectivly
 
 For example:
-`./kmean /data/Final_data.csv 6 16 rand`s
+`./kmean /data/Final_data.csv 6 16 rand`
 
 ### Generate datasets
 
